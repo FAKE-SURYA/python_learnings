@@ -1,11 +1,12 @@
 # python-learning
 
-A collection of small Python projects I'm building as I learn.
+A collection of small Python projects.
 
 ## Projects
 - ✅ CLI Calculator
 - ✅ BMI Calculator
-- ⏳ To-Do List App
+- ✅ Tempreature Conversion
+- ✅ To-Do List App
 - ⏳ Currency Converter
 - ⏳ Guess the Number Game
 
