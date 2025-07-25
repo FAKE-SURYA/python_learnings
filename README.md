@@ -7,9 +7,8 @@ A collection of small Python projects.
 - ✅ BMI Calculator
 - ✅ Tempreature Conversion
 - ✅ To-Do List App
-- ⏳ Currency Converter
-- ⏳ Guess the Number Game
-
+- ✅ Wifi-QR
+- ✅ Expense Tracker GUI
  I'm trying to push project regularly as I learn.
 
 ---
