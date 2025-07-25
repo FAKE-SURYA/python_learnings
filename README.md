@@ -9,6 +9,8 @@ A collection of small Python projects.
 - ✅ To-Do List App
 - ✅ Wifi-QR
 - ✅ Expense Tracker GUI
+
+  
  I'm trying to push project regularly as I learn.
 
 ---
